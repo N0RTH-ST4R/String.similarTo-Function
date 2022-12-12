@@ -1,3 +1,4 @@
 # String.similarTo Function
-For javascript
-Use: \<string\>.similarTo(\<text\>)
+For javascript \n
+Use: \<string\>.similarTo(\<text\>) \n
+WIP
