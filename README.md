@@ -1,3 +1,3 @@
 # SimilarTo Function
 For javascript
-Use: <String>.similarTo
+Use: \<string\>.similarTo(\<text\>)
