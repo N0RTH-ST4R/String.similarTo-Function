@@ -1,6 +1,6 @@
 String.prototype.similarTo=function(text){
-    var spltStr=this.split()
-    var txtSplt=text.split()
+    var spltStr=this.split("")
+    var txtSplt=text.split("")
     var corr=0
     for(let i=0;i<spltStr.length;i++){
         if(spltStr[i]=txtSplt[i]){
